@@ -1,0 +1,1 @@
+{"uuid":"5b6c2d90-f5b5-4f01-8104-8732609e072c","name":"bosta.tests.ForgetPasswordTest","children":["ce1cb2d6-de94-428e-9702-89aaec5a9982"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1762696119008,"stop":1762696119025}],"afters":[],"start":1762696118918,"stop":1762696124699}
